@@ -1,2 +1,2 @@
 # alongcyber.github.io
-for
+just for web learning 
